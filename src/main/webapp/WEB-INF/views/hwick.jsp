@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 	hwickhyohwickhyyyyooo
+=======
+sdafjkasdfjkdfhwickxcxcsdasdflsakf sdlk
+>>>>>>> 7f0fa1faffc31d57ca66b8276a50ee246c0680ae
 </body>
 </html>
