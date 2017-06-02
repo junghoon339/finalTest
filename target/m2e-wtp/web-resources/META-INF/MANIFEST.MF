@@ -1,10 +1,5 @@
 Manifest-Version: 1.0
-<<<<<<< HEAD
 Built-By: Hwick
 Build-Jdk: 1.8.0_112
-=======
-Built-By: Administrator
-Build-Jdk: 1.8.0_121
->>>>>>> 330a281a7f77a56541452d4764dbb1c49d802f30
 Created-By: Maven Integration for Eclipse
 
